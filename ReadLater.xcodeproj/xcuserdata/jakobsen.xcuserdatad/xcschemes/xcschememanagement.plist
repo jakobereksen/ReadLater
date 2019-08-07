@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>SaveArticle.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7B9B517D22F4B49500FACFAF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B9B51A622F704BB00FACFAF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B9B51B922F7056D00FACFAF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
